@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library>
+
+	<catalogue category="Technical">
+
+		<book>
+	
+			<ISBN>9780141980447</ISBN>
+			<title>Roller-Coaster: Europe, 1950-2017</title>
+			<author>Ian Kershaw</author>
+
+		</book>
+
+		<book>
+	
+			<ISBN>9780393317558</ISBN>
+			<title>Guns, Germs and Steel</title>
+			<author>Jared Diamond</author>
+
+		</book>
+
+
+	</catalogue>
+
+
+
+	<catalogue category="Cookery">
+
+		<book>
+	
+			<ISBN>9780711236783</ISBN>
+			<title>Summers Under the Tamarind Tree</title>
+			<author>Sumayya Usmani</author>
+
+		</book>
+
+		<book>
+	
+			<ISBN>9780241302149</ISBN>
+			<title>The Science of Spice</title>
+			<author>Dr. Stuart Farrimond</author>
+
+		</book>
+
+
+
+	</catalogue>
+
+
+
+
+</library>
